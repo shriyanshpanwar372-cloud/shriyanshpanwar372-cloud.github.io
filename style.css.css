@@ -1,0 +1,23 @@
+body {
+    font-family: Arial,sans-serif;
+    background-color: grey;
+    color: blue;
+    margin: 50px auto;
+    max-width: 600px;
+    padding: 20px;
+}
+h1 {
+    color: navy;
+}
+h2{
+    color: green;
+}
+a{
+    color: steelblue;
+    text-decoration: none;
+    margin-right: 15px;
+}
+a:hover {
+    text-decoration: underline;
+}
+
